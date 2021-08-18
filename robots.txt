@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://cloud-kumpel.github.io/CloudKumpel_Chirpy/sitemap.xml
